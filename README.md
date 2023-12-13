@@ -10,6 +10,8 @@ Here's a bit more about me:
 
 Feel free to explore my repositories, and don't hesitate to reach out if you share similar interests, have valuable insights, or if you're looking for a collaborator. Let's learn and grow together in the world of technology! 🚀
 
+#OpenSourceAdvocate #LinuxLover #AutomationWizard
+
 <!--
 **dat267/dat267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
